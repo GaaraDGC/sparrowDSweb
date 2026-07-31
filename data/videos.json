@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "id": "hero",
+      "title": "品牌短片示例",
+      "description": "30s 廣告片預覽，展示產品視覺與敘事節奏。",
+      "src": "/assets/videos/GrapePromise_crf.mp4",
+      "poster": "/assets/images/gp-poster.jpg",
+      "tag": "廣告預覽",
+      "type": "hero",
+      "layout": "card",
+      "apiId": null,
+      "remoteUrl": null
+    },
+    {
+      "id": "product",
+      "title": "產品介紹影片",
+      "description": "詳細介紹產品特性與使用方式，適合放置於產品頁面。",
+      "src": "/assets/videos/ProductDemo.mp4",
+      "poster": "/assets/images/poster.jpg",
+      "tag": "產品介紹",
+      "type": "product",
+      "layout": "card",
+      "apiId": null,
+      "remoteUrl": null
+    },
+    {
+      "id": "tutorial",
+      "title": "使用教學影片",
+      "description": "逐步教學影片，幫助用戶快速上手產品功能。",
+      "src": "/assets/videos/Tutorial.mp4",
+      "poster": "/assets/images/tutorial-poster.jpg",
+      "tag": "教學影片",
+      "type": "tutorial",
+      "layout": "card",
+      "apiId": null,
+      "remoteUrl": null
+    }
+  ]
+}
