@@ -4,6 +4,16 @@ CLAUDE.local.md
 .claude/
 .DS_Store
 
+.vscode/
+.vscode/settings.json
+# 强制添加共享配置文件
+# 推荐插件列表（确保团队使用统一插件）
+!.vscode/extensions.json
+# 构建任务（如一键启动项目）
+!.vscode/tasks.json
+# 公共调试配置
+!.vscode/launch.json
+
 # 项目资料
 Project.md
 DESIGN.md
