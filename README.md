@@ -6,3 +6,7 @@
 3. 啟動簡單靜態伺服器並測試：
    ```bash
    python3 -m http.server 8000
+
+# 版权声明
+代碼採用 Apache-2.0；
+assets 採用 CC BY 4.0（作者：@记不住名字 (gaarad@foxmail.com)）
