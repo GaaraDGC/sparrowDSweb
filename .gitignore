@@ -2,6 +2,7 @@
 CLAUDE.md
 CLAUDE.local.md
 .claude/
+.DS_Store
 
 # 项目资料
 Project.md
@@ -10,7 +11,7 @@ docs/
 backup/
 ref/
 
-# 数据库备份
+# 数据库备份，注意检查是否提交生产与测试数据
 data/*.bak*
 
 # 临时文件
